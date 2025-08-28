@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction Simplified
+🩺 Diabetes Prediction Simplified <br>
 📌 What the Project Does
 
 This project builds a machine learning model to predict whether a patient is likely to have diabetes based on medical diagnostic features. It demonstrates the end-to-end data science workflow—from data preprocessing and visualization to model training, evaluation, and prediction.
